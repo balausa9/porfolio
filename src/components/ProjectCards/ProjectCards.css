@@ -1,0 +1,10 @@
+.project_cards {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+
+    gap: 25px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
